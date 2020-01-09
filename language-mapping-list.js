@@ -34,6 +34,10 @@
       nativeName: "Tɕɥi",
       englishName: "Akan"
     },
+    'am': {
+      nativeName: "አማርኛ",
+      englishName: "Amharic"
+    },
     'ar': {
       nativeName: "العربية",
       englishName: "Arabic"
@@ -62,6 +66,10 @@
       nativeName: "Azərbaycan dili",
       englishName: "Azerbaijani"
     },
+    'be': {
+      nativeName: "Беларуская",
+      englishName: "Belarusian"
+    },
     'be-BY': {
       nativeName: "Беларуская",
       englishName: "Belarusian"
@@ -86,6 +94,10 @@
       nativeName: "বাংলা(বাংলাদেশ)",
       englishName: "Bengali (Bangladesh)"
     },
+    'bs': {
+      nativeName: "Bosanski",
+      englishName: "Bosnian"
+    },
     'bs-BA': {
       nativeName: "Bosanski",
       englishName: "Bosnian"
@@ -102,9 +114,17 @@
       nativeName: "Maya Kaqchikel",
       englishName: "Kaqchikel"
     },
+    'ceb': {
+      nativeName: "Cebuano",
+      englishName: "Cebuano"
+    },
     'ck-US': {
       nativeName: "ᏣᎳᎩ (tsalagi)",
       englishName: "Cherokee"
+    },
+    'co': {
+      nativeName: "Corsu",
+      englishName: "Corsican"
     },
     'cs': {
       nativeName: "Čeština",
@@ -322,6 +342,10 @@
       nativeName: "Français (Suisse)",
       englishName: "French (Switzerland)"
     },
+    'fy': {
+      nativeName: "Frysk",
+      englishName: "Frisian (West)"
+    },
     'fy-NL': {
       nativeName: "Frysk",
       englishName: "Frisian (West)"
@@ -334,6 +358,10 @@
       nativeName: "Gaeilge (Gaelic)",
       englishName: "Irish (Gaelic)"
     },
+    'gd': {
+      nativeName: "Gàidhlig na h-Alba",
+      englishName: "Scots Gaelic"
+    },
     'gl': {
       nativeName: "Galego",
       englishName: "Galician"
@@ -345,6 +373,10 @@
     'gn-PY': {
       nativeName: "Avañe'ẽ",
       englishName: "Guarani"
+    },
+    'gu': {
+      nativeName: "ગુજરાતી",
+      englishName: "Gujarati"
     },
     'gu-IN': {
       nativeName: "ગુજરાતી",
@@ -362,6 +394,14 @@
       nativeName: "עברית‏",
       englishName: "Hebrew"
     },
+    'ha': {
+      nativeName: "Hausa",
+      englishName: "Hausa"
+    },
+    'haw': {
+      nativeName: "Ōlelo Hawaiʻi",
+      englishName: "Hawaiian"
+    },
     'hi': {
       nativeName: "हिन्दी",
       englishName: "Hindi"
@@ -369,6 +409,10 @@
     'hi-IN': {
       nativeName: "हिन्दी",
       englishName: "Hindi"
+    },
+    'hmn': {
+      nativeName: "Hmong",
+      englishName: "Hmong"
     },
     'hr': {
       nativeName: "Hrvatski",
@@ -394,6 +438,10 @@
       nativeName: "Magyar",
       englishName: "Hungarian"
     },
+    'hy': {
+      nativeName: "Հայերեն",
+      englishName: "Armenian"
+    },
     'hy-AM': {
       nativeName: "Հայերեն",
       englishName: "Armenian"
@@ -405,6 +453,10 @@
     'id-ID': {
       nativeName: "Bahasa Indonesia",
       englishName: "Indonesian"
+    },
+    'ig': {
+      nativeName: "Ndi Igbo",
+      englishName: "Igbo"
     },
     'is': {
       nativeName: "Íslenska",
@@ -422,6 +474,10 @@
       nativeName: "Italiano",
       englishName: "Italian"
     },
+    'iw': {
+      nativeName: "עברית‏",
+      englishName: "Hebrew"
+    },
     'ja': {
       nativeName: "日本語",
       englishName: "Japanese"
@@ -434,9 +490,21 @@
       nativeName: "Basa Jawa",
       englishName: "Javanese"
     },
+    'jw': {
+      nativeName: "Basa Jawa",
+      englishName: "Javanese"
+    },
+    'ka': {
+      nativeName: "ქართული",
+      englishName: "Georgian"
+    },
     'ka-GE': {
       nativeName: "ქართული",
       englishName: "Georgian"
+    },
+    'kk': {
+      nativeName: "Қазақша",
+      englishName: "Kazakh"
     },
     'kk-KZ': {
       nativeName: "Қазақша",
@@ -470,9 +538,17 @@
       nativeName: "한국어 (韩国)",
       englishName: "Korean (Korea)"
     },
+    'ku': {
+      nativeName: "Kurdî",
+      englishName: "Kurdish"
+    },
     'ku-TR': {
       nativeName: "Kurdî",
       englishName: "Kurdish"
+    },
+    'ky': {
+      nativeName: "Кыргызча",
+      englishName: "Kyrgyz"
     },
     'la': {
       nativeName: "Latin",
@@ -489,6 +565,10 @@
     'li-NL': {
       nativeName: "Lèmbörgs",
       englishName: "Limburgish"
+    },
+    'lo': {
+      nativeName: "ລາວ",
+      englishName: "Lao"
     },
     'lt': {
       nativeName: "Lietuvių",
@@ -510,9 +590,17 @@
       nativeName: "मैथिली, মৈথিলী",
       englishName: "Maithili"
     },
+    'mg': {
+      nativeName: "Malagasy",
+      englishName: "Malagasy"
+    },
     'mg-MG': {
       nativeName: "Malagasy",
       englishName: "Malagasy"
+    },
+    'mi': {
+      nativeName: "Maori",
+      englishName: "Maori"
     },
     'mk': {
       nativeName: "Македонски",
@@ -529,6 +617,10 @@
     'ml-IN': {
       nativeName: "മലയാളം",
       englishName: "Malayalam"
+    },
+    'mn': {
+      nativeName: "Монгол",
+      englishName: "Mongolian"
     },
     'mn-MN': {
       nativeName: "Монгол",
@@ -598,6 +690,10 @@
       nativeName: "Norsk (nynorsk)",
       englishName: "Norwegian (nynorsk)"
     },
+    'ny': {
+      nativeName: "Nyanja",
+      englishName: "Nyanja"
+    },
     'oc': {
       nativeName: "Occitan",
       englishName: "Occitan"
@@ -621,6 +717,10 @@
     'pl-PL': {
       nativeName: "Polski",
       englishName: "Polish"
+    },
+    'ps': {
+      nativeName: "پښتو",
+      englishName: "Pashto"
     },
     'ps-AF': {
       nativeName: "پښتو",
@@ -670,9 +770,17 @@
       nativeName: "Davvisámegiella",
       englishName: "Northern Sámi"
     },
+    'sd': {
+      nativeName: "سنڌي",
+      englishName: "Sindhi"
+    },
     'sh': {
       nativeName: "српскохрватски",
       englishName: "Serbo-Croatian"
+    },
+    'si': {
+      nativeName: "පළාත",
+      englishName: "Sinhala (Sri Lanka)"
     },
     'si-LK': {
       nativeName: "පළාත",
@@ -694,6 +802,18 @@
       nativeName: "Slovenščina",
       englishName: "Slovenian"
     },
+    'sm': {
+      nativeName: "Samoa",
+      englishName: "Samoan"
+    },
+    'sn': {
+      nativeName: "Shona",
+      englishName: "Shona"
+    },
+    'so': {
+      nativeName: "Soomaaliga",
+      englishName: "Somali"
+    },
     'so-SO': {
       nativeName: "Soomaaliga",
       englishName: "Somali"
@@ -713,6 +833,10 @@
     'sr-RS': {
       nativeName: "Српски (Serbia)",
       englishName: "Serbian (Serbia)"
+    },
+    'st': {
+      nativeName: "Sesotho",
+      englishName: "Sesotho"
     },
     'su': {
       nativeName: "Basa Sunda",
@@ -822,6 +946,10 @@
       nativeName: "Tiếng Việt",
       englishName: "Vietnamese"
     },
+    'xh': {
+      nativeName: "isiXhosa",
+      englishName: "Xhosa"
+    },
     'xh-ZA': {
       nativeName: "isiXhosa",
       englishName: "Xhosa"
@@ -833,6 +961,10 @@
     'yi-DE': {
       nativeName: "ייִדיש (German)",
       englishName: "Yiddish (German)"
+    },
+    'yo': {
+      nativeName: "Yoruba",
+      englishName: "Yoruba"
     },
     'zh': {
       nativeName: "中文",
@@ -861,6 +993,10 @@
     'zh-TW': {
       nativeName: "中文（台灣）",
       englishName: "Chinese Traditional (Taiwan)"
+    },
+    'zu': {
+      nativeName: "isiZulu",
+      englishName: "Zulu"
     },
     'zu-ZA': {
       nativeName: "isiZulu",
